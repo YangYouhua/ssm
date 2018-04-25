@@ -1,9 +1,4 @@
 # SSM
-手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis
-
-博客地址：[http://blog.csdn.net/qq598535550/article/details/51703190](http://blog.csdn.net/qq598535550/article/details/51703190)
-
----------
 
 > 我们看招聘信息的时候，经常会看到这一点，需要具备SSH框架的技能；而且在大部分教学课堂中，也会把SSH作为最核心的教学内容。
 > 但是，我们在实际应用中发现，SpringMVC可以完全替代Struts，配合注解的方式，编程非常快捷，而且通过restful风格定义url，让地址看起来非常优雅。
